@@ -29,14 +29,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Apply JavaScript to work with DOM and catch Event
 + Use JavaScript to work with API (restcountries.com, geocode.xyz, ipapi.co)
 
-### 3. Website that manage pets ver 2
+### 3. Project manager pets ver 2 website
 - Link github: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
 - Description : pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
 + Project uses HTML and CSS to make interface.
 + Use JavaScript to solve BackEnd.
 + Database uses localStore.
 
-### 4. Website about NEWS and to-do-list management.
+### 4. Project Website about NEWS and to-do-list management.
 - Link github: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
 - Description : The website has the following features: Register and login, display news, search by keyword, integrate to-d- list management.
 + Project uses HTML and CSS display design
