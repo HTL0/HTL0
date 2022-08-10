@@ -3,7 +3,6 @@
 ## Objective
 My goal is to become a Junior Developer in first year, after 3 year, I want to become a System Engineer, and after 5 years to aim for the position of Project Manager.
 
-
 ## Skill
 ### HTML ★★★★★
 ### CSS ★★★★★
@@ -11,43 +10,46 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 ### SQL Server ★★★★☆
 ### Java ★★★☆☆
 
+## Github link: [https://github.com/HTL0](https://github.com/HTL0)
 
 ## Personal Project
 ### 1. Project website's interface to introduce Vietnam travel
 ![image](image/Vietnam-Travel.png)
 - Link github: [https://github.com/HTL0/VietNam-Travel-Web-Interface](https://github.com/HTL0/VietNam-Travel-Web-Interface)
 - Description: The web that shares about Vietnam's information and famous Vietnamese foods.
-+ Project uses HTML and Bootstrap of CSS.
-+ Use SEO to submit to google to check section.
-+ Integrate Google Analytics
+- Project uses HTML and Bootstrap of CSS.
+- Use SEO to submit to google to check section.
+- Integrate Google Analytics
 
 ### 2. Take latitude and longitude or IP address from User
 ![image](image/get_location.png)
 - Link github: [https://github.com/HTL0/Get_Location](https://github.com/HTL0/Get_Location)
 - Description: Website checks IP from users or users enter longitude and latitude to get country information (Flag, name, location, population, language, currency)
-+ Project uses HTML and CSS to make basic card interface.
-+ Apply JavaScript to work with DOM and catch Event
-+ Use JavaScript to work with API (restcountries.com, geocode.xyz, ipapi.co)
+- Project uses HTML and CSS to make basic card interface.
+- Apply JavaScript to work with DOM and catch Event
+- Use JavaScript to work with API (restcountries.com, geocode.xyz, ipapi.co)
 
 ### 3. Project manager pets ver 2 website
 ![image](image/Pet-Management.png)
 - Link github: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
-- Description : pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
-+ Project uses HTML and CSS to make interface.
-+ Use JavaScript to solve BackEnd.
-+ Database uses localStore.
+- Description: pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
+- Project uses HTML and CSS to make interface.
+- Use JavaScript to solve BackEnd.
+- Database uses localStore.
 
 ### 4. Project Website about NEWS and to-do-list management.
 ![image](image/News-and-Todo-List.png)
 - Link github: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
 - Description : The website has the following features: Register and login, display news, search by keyword, integrate to-d- list management.
-+ Project uses HTML and CSS display design
-+ Use JavaScript to solve BackEnd
-+ Database uses localStore
-+ Use JavaScript work with API(https://newsapi.org/pricing) to get information. (Because I use API's free account, the website only works on local host).
+- Project uses HTML and CSS display design
+- Use JavaScript to solve BackEnd
+- Database uses localStore
+- Use JavaScript work with API(https://newsapi.org/pricing) to get information. (Because I use API's free account, the website only works on local host).
 
 ### 5. Project Human-Resources
 ![image](image/Human-Resources.png)
+- Link github: [https://github.com/HTL0/Human-Resources](https://github.com/HTL0/Human-Resources)
+- Description:
 
 
 You can use the [editor on GitHub](https://github.com/HTL0) to maintain and preview the content for your website in Markdown files.
