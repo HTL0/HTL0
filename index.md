@@ -8,8 +8,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 ### HTML ★★★★★
 ### CSS ★★★★★
 ### JavaScript ★★★★☆
-### Java ★★★★☆
-### SQL Server ★★★☆☆
+### SQL Server ★★★★☆
+### Java ★★★☆☆
 
 
 ## Personal Project
