@@ -40,16 +40,18 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 ### 4. Project Website about NEWS and to-do-list management.
 ![image](image/News-and-Todo-List.png)
 - Link github: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
-- Description : The website has the following features: Register and login, display news, search by keyword, integrate to-d- list management.
+- Description : The website has the following features: Register and login, display news, search by keyword, integrate to-do list management.
 - Project uses HTML and CSS display design
 - Use JavaScript to solve BackEnd
 - Database uses localStore
-- Use JavaScript work with API(https://newsapi.org/pricing) to get information. (Because I use API's free account, the website only works on local host).
+- Use JavaScript work with API [https://newsapi.org/pricing](https://newsapi.org/pricing) to get information. (Because I use API's free account, the website only works on local host).
 
 ### 5. Project Human-Resources
 ![image](image/Human-Resources.png)
 - Link github: [https://github.com/HTL0/Human-Resources](https://github.com/HTL0/Human-Resources)
-- Description:
+- Description: Human resource management application
+- Display: simple console interface
+- Use OOP knowledge and java language
 
 
 You can use the [editor on GitHub](https://github.com/HTL0) to maintain and preview the content for your website in Markdown files.
