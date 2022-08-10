@@ -21,6 +21,7 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 + Integrate Google Analytics
 
 ### 2. Take latitude and longitude or IP address from User
+![image](get_location.png)
 - Link github: [https://github.com/HTL0/Get_Location](https://github.com/HTL0/Get_Location)
 - Description: Website checks IP from users or users enter longitude and latitude to get country information (Flag, name, location, population, language, currency)
 + Project uses HTML and CSS to make basic card interface.
