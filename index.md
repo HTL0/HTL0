@@ -1,6 +1,5 @@
-## HOANG THE LONG's Porfolio
-I have been interested in programming languages since I was in high school. When I graduated, I went to FPT - Aptech. After studying abroad in Japan, I went on to university to major in information systems, and continued to pursue programming. Currently, I have completed 4 years of university at UMDS university, and want to work as a Developer.
-
+# HOANG THE LONG's Porfolio
+# Objective
 My goal is to become a Junior Developer in first year, after 3 year, I want to become a System Engineer, and after 5 years to aim for the position of Project Manager.
 
 You can use the [editor on GitHub](https://github.com/HTL0) to maintain and preview the content for your website in Markdown files.
