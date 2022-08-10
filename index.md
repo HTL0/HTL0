@@ -49,5 +49,4 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 - Use OOP knowledge and java language
 
 # Contact
-### Email: lkaikoko[$]gmail.com
-(Please replace [$] in the email address with @ symbol.)
+### Email: 
