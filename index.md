@@ -43,6 +43,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Use JavaScript to solve BackEnd
 + Database uses localStore
 + Use JavaScript work with API(https://newsapi.org/pricing) to get information. (Because I use API's free account, the website only works on local host).
+
 ```markdown
 Syntax highlighted code block
 
