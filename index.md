@@ -18,7 +18,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 
 ### 1. Project manager pets ver 2 website
 ![image](image/Pet-Management.png)
-- Link github: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
+- Link: [https://htl0.github.io/Pet-magerment-project/](https://htl0.github.io/Pet-magerment-project/)
+- Source code: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
 - Description: pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
 - Project uses HTML and CSS to make interface.
 - Use JavaScript to solve BackEnd.
@@ -26,7 +27,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 
 ### 2. Project Website about NEWS and to-do-list management.
 ![image](image/News-and-Todo-List.png)
-- Link github: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
+- Link: [https://htl0.github.io/News-Website/index.html](https://htl0.github.io/News-Website/index.html)
+- Source code: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
 - Description : The website has the following features: Register and login, display news, search by keyword, integrate to-do list management.
 - Project uses HTML and CSS display design
 - Use JavaScript to solve BackEnd
@@ -35,7 +37,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 
 ### 3. Project website's interface to introduce Vietnam travel
 ![image](image/Vietnam-Travel.png)
-- Link github: [https://github.com/HTL0/VietNam-Travel-Web-Interface](https://github.com/HTL0/VietNam-Travel-Web-Interface)
+- Link: [https://gl0thweb.000webhostapp.com/](https://gl0thweb.000webhostapp.com/)
+- Source code: [https://github.com/HTL0/VietNam-Travel-Web-Interface](https://github.com/HTL0/VietNam-Travel-Web-Interface)
 - Description: The web that shares about Vietnam's information and famous Vietnamese foods.
 - Project uses HTML and Bootstrap of CSS.
 - Use SEO to submit to google to check section.
@@ -43,7 +46,7 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 
 ### 4. Project Human-Resources
 ![image](image/Human-Resources.png)
-- Link github: [https://github.com/HTL0/Human-Resources](https://github.com/HTL0/Human-Resources)
+- Source code: [https://github.com/HTL0/Human-Resources](https://github.com/HTL0/Human-Resources)
 - Description: Human resource management application
 - Display: simple console interface
 - Use OOP knowledge and java language
