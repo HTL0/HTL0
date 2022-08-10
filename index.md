@@ -1,5 +1,5 @@
 # HOANG THE LONG's Porfolio
-[Image](image.png)
+![Image](image.png)
 ## Objective
 My goal is to become a Junior Developer in first year, after 3 year, I want to become a System Engineer, and after 5 years to aim for the position of Project Manager.
 
