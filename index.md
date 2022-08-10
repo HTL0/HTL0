@@ -14,31 +14,30 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### SQL Server ★★★☆☆
 
 
-
 ## Personal Project
 ### 1. Project website's interface to introduce Vietnam travel
-- Link github: https://github.com/HTL0/VietNam-Travel-Web-Interface
+- Link github: [https://github.com/HTL0/VietNam-Travel-Web-Interface](https://github.com/HTL0/VietNam-Travel-Web-Interface)
 - Description: The web that shares about Vietnam's information and famous Vietnamese foods.
 + Project uses HTML and Bootstrap of CSS.
 + Use SEO to submit to google to check section.
 + Integrate Google Analytics
 
 ### 2. Take latitude and longitude or IP address from User
-- Link github: https://github.com/HTL0/Get_Location
+- Link github: [https://github.com/HTL0/Get_Location](https://github.com/HTL0/Get_Location)
 - Description: Website checks IP from users or users enter longitude and latitude to get country information (Flag, name, location, population, language, currency)
 + Project uses HTML and CSS to make basic card interface.
 + Apply JavaScript to work with DOM and catch Event
 + Use JavaScript to work with API (restcountries.com, geocode.xyz, ipapi.co)
 
 ### 3. Website that manage pets ver 2
-- Link github: https://github.com/HTL0/Pet-magerment-project
+- Link github: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
 - Description : pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
 + Project uses HTML and CSS to make interface.
 + Use JavaScript to solve BackEnd.
 + Database uses localStore.
 
 ### 4. Website about NEWS and to-do-list management.
-- Link github: https://github.com/HTL0/News-Website
+- Link github: [https://github.com/HTL0/News-Website](https://github.com/HTL0/News-Website)
 - Description : The website has the following features: Register and login, display news, search by keyword, integrate to-d- list management.
 + Project uses HTML and CSS display design
 + Use JavaScript to solve BackEnd
