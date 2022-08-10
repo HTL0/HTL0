@@ -1,12 +1,12 @@
 # HOANG THE LONG's Porfolio
-# Objective
+## Objective
 My goal is to become a Junior Developer in first year, after 3 year, I want to become a System Engineer, and after 5 years to aim for the position of Project Manager.
 
 You can use the [editor on GitHub](https://github.com/HTL0) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Skill
+## Skill
 ### HTML ★★★★★
 ### CSS ★★★★★
 ### JavaScript ★★★★☆
