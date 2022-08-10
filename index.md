@@ -1,7 +1,7 @@
 # HOANG THE LONG's Porfolio
 ![Image](image/image.png)
 ## Objective
-Hi, my name is Long. born in 1992. I have been interested in programming languages since I was in high school. After studying abroad in Japan, I went on to university to major in information systems, and continued to pursue programming. Currently, I have completed 4 years of university at UMDS university, and want to work as a Developer.Using knowledge about programming
+Hi, my name is Long. I have been interested in programming languages since I was in high school. After studying abroad in Japan, I went on to university to major in information systems, and continued to pursue programming. Currently, I have completed 4 years of university at UMDS university, and want to work as a Developer. Using knowledge about programming
 
 My goal is to become a Junior Developer in first year, after 3 year, I want to become a System Engineer, and after 5 years to aim for the position of Project Manager.
 
