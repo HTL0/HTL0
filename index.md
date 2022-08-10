@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## HOANG THE LONG's Porfolio
+I have been interested in programming languages since I was in high school. When I graduated, I went to FPT - Aptech. After studying abroad in Japan, I went on to university to major in information systems, and continued to pursue programming. Currently, I have completed 4 years of university at UMDS university, and want to work as a Developer.
+
+My goal is to become a Junior Developer in 6 months, after 1 year, I want to become a System Engineer, after 3 years I want to become a BRSE and after 5 years to aim for the position of Project Manager.
 
 You can use the [editor on GitHub](https://github.com/HTL0/HTL0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Skill
+### HTML ★★★★★
+### CSS ★★★★★
+### JavaScript ★★★★☆
+### Java ★★★★☆
+### SQL Server ★★★☆☆
 
 ```markdown
 Syntax highlighted code block
