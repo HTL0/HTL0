@@ -9,8 +9,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 ### JavaScript ★★★★☆
 ### SQL Server ★★★★☆
 ### Java ★★★☆☆
+### Github link: [https://github.com/HTL0](https://github.com/HTL0)
 
-## Github link: [https://github.com/HTL0](https://github.com/HTL0)
 
 ## Personal Project
 ### 1. Project website's interface to introduce Vietnam travel
