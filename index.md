@@ -18,8 +18,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 
 ### 1. Project manager pets ver 2 website
 ![image](image/Pet-Management.png)
-- Link: [https://htl0.github.io/Pet-magerment-project/](https://htl0.github.io/Pet-magerment-project/)
-- Source code: [https://github.com/HTL0/Pet-magerment-project](https://github.com/HTL0/Pet-magerment-project)
+- Link: [https://htl0.github.io/Pet-management-project/](https://htl0.github.io/Pet-management-project/)
+- Source code: [https://github.com/HTL0/Pet-management-project](https://github.com/HTL0/Pet-management-project)
 - Description: pet management website, has the following features: add pet, calculate pet's BMI, display pet information, add pet breed, edit information and search pet.
 - Project uses HTML and CSS to make interface.
 - Use JavaScript to solve BackEnd.
