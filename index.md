@@ -8,8 +8,8 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 ## Skill
 ### HTML ★★★★★
 ### CSS ★★★★★
-### JavaScript ★★★☆☆
 ### SQL Server ★★★★☆
+### JavaScript ★★★☆☆
 ### Java ★★★☆☆
 ### Github link: [https://github.com/HTL0](https://github.com/HTL0)
 
