@@ -51,5 +51,15 @@ My goal is to become a Junior Developer in first year, after 3 year, I want to b
 - Display: simple console interface
 - Use OOP knowledge and java language
 
+### 5. Project Product-Management
+![image](image/Product-management.png)
+- Source code: [https://github.com/HTL0/Product-management](https://github.com/HTL0/Product-management)
+- Description: Product-management application
+- Display: simple console interface
+- Use OOP knowledge and java language
+- Read and write files
+- Record the displayed content to the file console_output
+- Use single linked list, stack, queue structure 
+
 # Contact
 You can contact me using this [form](https://docs.google.com/forms/d/e/1FAIpQLScf6x1pU2smJCcYpqU8XypSWRr2fz0yhHE2XfdckvPordx80w/viewform?usp=sf_link)
